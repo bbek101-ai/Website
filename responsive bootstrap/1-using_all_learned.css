@@ -1,0 +1,34 @@
+.carousel img{
+  height:500px;
+}
+.dropdown-menu{
+  background-color: rgba(204,33,55,0.85);
+  color:white;
+}
+.signin .dropdown-item:hover{
+  background-color: transparent;
+  color:white;
+}
+.dropdown-item{
+  color:white;
+}
+.send-info{
+  background-color: #ffffff;
+}
+.navbar-brand{
+  color:rgb(227,0,23) !important;
+}
+
+a:hover{
+  text-decoration: none;
+}
+.sign-up a{
+  color:white !important;
+}
+.sign-up:hover a{
+  color:black !important;
+
+  border-radius: 5px;
+  padding:8px;
+  background-color: #ffffff;
+}
